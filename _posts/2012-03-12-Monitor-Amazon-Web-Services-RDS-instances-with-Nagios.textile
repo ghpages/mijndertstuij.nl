@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Monitor Amazon Web Services RDS instances with Nagios"
+---
+
+RDS or "Relational Database Service":http://aws.amazon.com/rds/ allows you to run on-demand servers with full access to MySQL and Oracle databases. When you're using Nagios it's nice to have an alert for when your RDS instance becomes unresponsive. Nagios Exchange provides a "small Perl script":http://exchange.nagios.org/directory/Plugins/Databases/MySQL/check_mysqld/details that can do exactly that.
+
+You need to download and copy this Perl script to /usr/local/nagios/libexec, or wherever your "Nagios":http://www.nagios.org/ install is on your system.
+
+Now we can define a service command.
+
+{% highlight bash %}
+define command{
+command_name check_mysqld
+command_line /usr/bin/perl $USER1$/check_mysqld.pl -H your-rds-hostname -u $ARG1$ -p $ARG2$
+}
+{% endhighlight %}
+
+And we need a service check within the server config.
+
+{% highlight bash %}
+define service
+use generic-service
+host your-host
+service_description MySQLd check
+check_command check_mysqld!username!password
+}
+{% endhighlight %}
+
+Now all we need to do is restart the Nagios daemon and wait for the new command to initialize. The service check will try to do a 'mysql status' command every once in a while.
+
+"Discuss on Hacker News":http://news.ycombinator.com/item?id=3694995

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "High scalability with Route53 and Amazon Elastic Load Balancer"
+---
+
+By using Route53 as your DNS service, you now have the option to create an Alias record set. This allows you to point your Zone Apex, or A record, to an Elastic Load Balancer. Assuming you already have your domain parked at GoDaddy or whatever your preferred provider is, you first have to change your DNS settings to include Amazon's delegation set by creating a new Hosted Zone in Route53's web interface.
+
+!../images/blog/20120308/route53_1.png!
+
+The only thing you have to do next is create an Alias record to connect your Zone Apex to the load balancer you have created. And, of course, a CNAME to the www sub-domain.
+
+!../images/blog/20120308/route53_2.png!
