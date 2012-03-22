@@ -16,6 +16,9 @@ html,body{ background-image: url(../images/bg.png); }
 #main h3{ font-family: 'Montserrat', sans-serif; font-size: 17px; margin: 15px 0 5px 0; }
 #main p{ font-family: Georgia, serif; font-size: 16px; margin: 0 0 10px 0; line-height: 23px; }
 #main .highlight{ margin: 0 0 10px 0; }
+#twocolumn{ min-height: 250px; }
+#twocolumn .left{ float: left; width: 325px; }
+#twocolumn .right{ float: right; width: 325px; }
 #pagination{ margin: 10px 0 0 0; }
 #pagination a.prev{ float: left; }
 #pagination a.next{ float: right; }
