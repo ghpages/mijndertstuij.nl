@@ -9,7 +9,7 @@ lsi:         false
 pygments:    true
 markdown:    maruku
 permalink:   /:year-:month/:title.html
-paginate:    5
+paginate:    10
 
 maruku:
   use_tex:    false
