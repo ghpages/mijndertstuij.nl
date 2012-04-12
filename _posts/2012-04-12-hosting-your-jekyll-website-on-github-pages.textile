@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Hosting your Jekyll website on GitHub pages"
+---
+
+GitHub has a lot of great but rather hidden features. Features not everyone is aware of and maybe don't get used as often. Features like "Gists":https://gist.github.com/, "The Octodex":http://octodex.github.com/ and most notably "GitHub Pages":http://pages.github.com/.
+
+With GitHub Pages it's super easy to host your "Jekyll":https://github.com/mojombo/jekyll based, or otherwise static, website on GitHub so you don't need to setup a server yourself. Here's how to do it.
+
+First we need to create a branch called gh-pages. One way to do it is with the GitHub for Mac application which you can download for free. Or use your own favourite way of branching Git repositories.
+
+!>../images/blog/20120412/github-gh-pages-branches.png!
+
+From now on it's easy to just work on your website in the gh-pages branch, or do some changes in master and merge when you're done.
+
+Now you need to add a file called 'CNAME' to your website's root directory. The CNAME file should include the address of your website, so mine would include 'mijndertstuij.nl'. Commit the CNAME file and change your A-record in DNS settings to 204.232.175.78.
+
+When your GitHub page is generated you will get a notification. It may also take up to 24 hours for your DNS change to be fully propagated. If you want to check out my Jekyll project head over to my "GitHub page":https://github.com/mijndert. And as always, if you see room for improvement you can fork the entire repository and send me a pull request.
