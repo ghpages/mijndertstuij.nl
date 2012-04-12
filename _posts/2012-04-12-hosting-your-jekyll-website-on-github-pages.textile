@@ -16,3 +16,5 @@ From now on it's easy to just work on your website in the gh-pages branch, or do
 Now you need to add a file called 'CNAME' to your website's root directory. The CNAME file should include the address of your website, so mine would include 'mijndertstuij.nl'. Commit the CNAME file and change your A-record in DNS settings to 204.232.175.78.
 
 When your GitHub page is generated you will get a notification. It may also take up to 24 hours for your DNS change to be fully propagated. If you want to check out my Jekyll project head over to my "GitHub page":https://github.com/mijndert. And as always, if you see room for improvement you can fork the entire repository and send me a pull request.
+
+"Discuss on Hacker News":http://news.ycombinator.com/item?id=3831085
