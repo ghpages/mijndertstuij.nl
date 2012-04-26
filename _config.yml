@@ -1,15 +1,10 @@
-safe:        false
-auto:        false
-server:      false
-server_port: 4000
 destination: /Users/mijndert/Sites/mijndertstuij-nl
-
 future:      true
 lsi:         false
 pygments:    true
 markdown:    maruku
 permalink:   /:year-:month/:title.html
-paginate:    10
+paginate:    5
 
 maruku:
   use_tex:    false
