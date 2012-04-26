@@ -29,3 +29,6 @@ ul.posts li{ color: #777; list-style: none; clear: both; border-bottom:1px dotte
 ul.posts a{ text-decoration: none; }
 ul.posts a:hover{ text-decoration: underline; }
 ul.posts span{ float: right;color: #777; font-size: 14px; }
+
+.addthis_toolbox{ border-top: #D7D7D7 dotted 1px; height: 30px; }
+.addthis_toolbox a{ margin-top: 15px; }
