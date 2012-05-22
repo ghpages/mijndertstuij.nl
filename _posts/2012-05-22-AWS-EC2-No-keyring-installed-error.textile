@@ -1,0 +1,23 @@
+---
+layout: post
+title: "AWS EC2 Ubuntu: No keyring installed error"
+---
+
+This error only happens after bundling your Ubuntu EC2 instance to create a new instance. When you run apt-get update you will see this error:
+
+{% highlight bash %}
+W: GPG error: http://eu-west-1.ec2.archive.ubuntu.com precise Release:
+No keyring installed in /etc/apt/trusted.gpg.d/.
+W: GPG error: http://security.ubuntu.com precise-security Release: No
+keyring installed in /etc/apt/trusted.gpg.d/.
+W: GPG error: http://eu-west-1.ec2.archive.ubuntu.com precise-updates
+{% endhighlight %}
+
+You can fix this error by adding the keys again like this:
+
+{% highlight bash %}
+gpg --keyserver pgpkeys.mit.edu --recv-key 40976EAF437D05B5
+gpg -a --export 40976EAF437D05B5 | apt-key add -
+{% endhighlight %}
+
+You will have to do this every time you initiate a new instance of your AMI. I'm not sure why this happens but I'll make sure to update this post when I get some more information on this issue.
