@@ -17,8 +17,7 @@ a{ color: #414141; }
 #main h3{ font-family: 'Asap', serif; font-size: 17px; margin: 15px 0 5px 0; }
 #main p{ font-family: Georgia, serif; font-size: 16px; margin: 0 0 10px 0; line-height: 23px; }
 #main .highlight{ margin: 0 0 10px 0; }
-#main .addthis_toolbox p.aside{ float: left; font-size: 14px; } 
-#main .addthis_toolbox{ border-top: #D7D7D7 dotted 1px; height: 30px; float: right; }
+#main .addthis_toolbox{ border-top: #D7D7D7 dotted 1px; height: 30px; }
 #main .addthis_toolbox a{ margin-top: 15px; }
 #twocolumn{ min-height: 240px; }
 #twocolumn .left{ float: left; width: 325px; }
