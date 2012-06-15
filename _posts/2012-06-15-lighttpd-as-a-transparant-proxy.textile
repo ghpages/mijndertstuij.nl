@@ -7,13 +7,13 @@ using the proxy module in "Lighttpd":http://lighttpd.net you can get a transpara
 
 First you will need to enable the proxy module in lighttpd.conf. 
 
-{% highlight %}
+{% highlight bash %}
 server.modules = ( "mod_proxy" )
 {% endhighlight %}
 
 After that you can enable proxying by including the following inside your vhost declaration. 
 
-{% highlight %}
+{% highlight bash %}
 proxy.balance = "round-robin" proxy.server = ( "/" =>
 ( ( "host" => "127.0.0.1", "port" => 8080 ) ) )
 {% endhighlight %}
