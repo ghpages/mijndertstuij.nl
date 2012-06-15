@@ -3,7 +3,7 @@ layout: post
 title: "Use Lighttpd as a transparant proxy"
 ---
 
-using the proxy module in "Lighttpd":http://lighttpd.net you can get a transparant, super light-weight web server in front of your application server. I've been using it to proxy traffic to the built-in web server of the "Play framework":http://playframework.org for SSL termination.
+Using the proxy module in "Lighttpd":http://lighttpd.net you can get a transparant, super light-weight web server in front of your application server. I've been using it to proxy traffic to the built-in web server of the "Play framework":http://playframework.org for SSL termination.
 
 First you will need to enable the proxy module in lighttpd.conf. 
 
