@@ -17,7 +17,7 @@ a{ color: #414141; }
 #main h3{ font-family: 'Open Sans', sans-serif; font-size: 17px; margin: 15px 0 5px 0; }
 #main p{ font-family: Georgia, serif; font-size: 16px; margin: 0 0 10px 0; line-height: 23px; }
 #main .highlight{ margin: 0 0 10px 0; }
-#main .footer{ border-top: #D7D7D7 dotted 1px; height: 30px; }
+#main .footer{ border-top: #D7D7D7 dotted 1px; height: 40px; }
 #twocolumn{ min-height: 240px; }
 #twocolumn .left{ float: left; width: 325px; }
 #twocolumn .right{ float: right; width: 325px; }
