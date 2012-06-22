@@ -22,4 +22,6 @@ gpg -a --export 40976EAF437D05B5 | apt-key add -
 
 You will have to do this every time you initiate a new instance of your AMI. I'm not sure why this happens but I'll make sure to update this post when I get some more information on this issue.
 
+Update June 22, 2012: as "Tom Cook":https://twitter.com/#!/ywxwy pointed out on Twitter you need to include GPG files while bundling your AMI. The "ami-bundle-vol":http://docs.amazonwebservices.com/AWSEC2/latest/CommandLineReference/CLTRG-ami-bundle-vol.html command strips those out by default.
+
 "Discuss on Hacker News":http://news.ycombinator.com/item?id=4007418
