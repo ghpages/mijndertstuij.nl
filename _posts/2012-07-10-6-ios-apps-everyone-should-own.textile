@@ -1,0 +1,46 @@
+---
+layout: post
+title: "6 iOS apps everyone should own" 
+---
+
+h3. Instacast
+
+Price: € 1,59
+Link: "iTunes store":http://itunes.apple.com/nl/app/instacast/id420368235?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+
+h3. Tweetbot
+
+Price: € 2,39
+Link: "iTunes store":http://itunes.apple.com/nl/app/tweetbot-twitter-client-personality/id428851691?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+
+h3. Instapaper
+
+Price: € 2,99
+Link: "iTunes store":http://itunes.apple.com/nl/app/instapaper/id288545208?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+
+h3. Verbs
+
+Price: € 0,79
+Link: "iTunes store":http://itunes.apple.com/nl/app/verbs-im/id392501688?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+
+h3. Prompt
+
+Price: € 5,99
+Link: "iTunes store":http://itunes.apple.com/nl/app/prompt/id421507115?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+
+h3. Paper
+
+Price: Free
+Link: "iTunes store":http://itunes.apple.com/nl/app/paper-by-fiftythree/id506003812?mt=8
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
