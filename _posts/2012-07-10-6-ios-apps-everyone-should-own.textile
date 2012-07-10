@@ -5,42 +5,44 @@ title: "6 iOS apps everyone should own"
 
 h3. Instacast
 
-Price: € 1,59
+Price: &euro; 1,59
 Link: "iTunes store":http://itunes.apple.com/nl/app/instacast/id420368235?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+A while back Apple released it's podcast app, but Instacast still reigns as the best podcast experience on iOS. Instacast allows you to download or stream your favourite podcasts over 3G. Missing is the ability to import your current iTunes podcast subscriptions into Instacast but you can still find all of the podcasts you would find in the iTunes store.
 
 h3. Tweetbot
 
-Price: € 2,39
+Price: &euro; 2,39
 Link: "iTunes store":http://itunes.apple.com/nl/app/tweetbot-twitter-client-personality/id428851691?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+There's a lot of Twitter clients to download and try and sometimes you encounter a great one. But not as great as Tweetbot. Tweetbot is the best Twitter client on both iPad and iPhone. Tweetbot has the best user experience of just about any iOS app. It can even sync your DM and timeline status across devices.
 
 h3. Instapaper
 
-Price: € 2,99
+Price: &euro; 2,99
 Link: "iTunes store":http://itunes.apple.com/nl/app/instapaper/id288545208?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+Instapaper blows Pocket (formerly Read it Later) out of the water when it comes to fonts, options and the overall user experience. It took me a while to figure that out but once I made the switch I wondered why I didn't do it sooner. Marco is an awesome developer and I'm glad to support him by buying his app and a yearly subscription.
 
 h3. Verbs
 
-Price: € 0,79
+Price: &euro; 0,79
 Link: "iTunes store":http://itunes.apple.com/nl/app/verbs-im/id392501688?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+Verbs is a simple IM client that runs on both iPad and iPhone. It can connect to Facebook Chat, AIM, Google Talk and others. There's an in-app purchase of around &euro; 4,- which might sound like a lot but it gives you the ability to stay connected for days while the app is in the background.
 
 h3. Prompt
 
-Price: € 5,99
+Price: &euro; 5,99
 Link: "iTunes store":http://itunes.apple.com/nl/app/prompt/id421507115?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+Prompt is an app by Panic, one of my favourite Mac/iOS shops, that allows you to setup an SSH connection on your iOS device. It can even import your SSH keys from the clipboard or via iTunes file transfer. 
 
 h3. Paper
 
 Price: Free
 Link: "iTunes store":http://itunes.apple.com/nl/app/paper-by-fiftythree/id506003812?mt=8
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque, eros at ultricies volutpat, tortor lorem malesuada nunc, nec elementum neque orci et sem. Etiam non diam erat, eget eleifend eros. Donec pulvinar, ligula a ultrices auctor, sem eros ultrices eros, sit amet pulvinar augue ligula id nisl. Sed suscipit tincidunt eros eget molestie. Aenean iaculis felis nec ipsum semper dictum. In nec est non erat consectetur varius vel ut justo. Donec varius porttitor neque.
+Paper is an app made by the same guys who worked on the Microsoft Courier. Paper looks and feels like a really polished app. There's a great set of brushes available with an in-app purchases. I recommend you use Paper with a Wacom Bamboo Styles for the iPad.
+
+~Prices are as of July 2012~

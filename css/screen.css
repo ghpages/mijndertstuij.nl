@@ -80,8 +80,8 @@ h3 {
 }
 
 #main .footer {
-   border-top: #D7D7D7;
-   height: 40px;
+   border-top: #D7D7D7 1px dotted;
+   height: 50px
 }
 
 #main .footer p {
