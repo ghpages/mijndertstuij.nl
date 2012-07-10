@@ -111,15 +111,3 @@ ul.posts span {
    color: #777;
    font-size: 14px;
 }
-
-#pagination {
-   margin: 10px 0 0 0
-}
-
-#pagination a.prev {
-   float: left
-}
-
-#pagination a.next {
-   float: right
-}
